@@ -7,5 +7,10 @@ Basic Git Commands:
  2. `git remote -v` - Where our code is stored (on github)
  3. `git status` - View the working tree status
  4. `git add <file>` - Add file contents to the index
- 5. `git commit -m "<message>"` - Record changes to the repository
- 6. `git push` - Update remote refs along with associated objects
+ 6. test
+ 6. `git commit -m "<message>"` - Record changes to the repository
+ 7. `git push` - Update remote refs along with associated objects
+
+DONT ADD ANYTHING
+
+ 7. TEST CONFLICT CHANGES
