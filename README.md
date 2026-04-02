@@ -14,3 +14,4 @@ Basic Git Commands:
 HomeWork:
 - Practice the above commands
 - Add git pull, git branch and git checkout to README.md file
+- Be straight
