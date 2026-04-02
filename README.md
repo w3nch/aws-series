@@ -9,3 +9,8 @@ Basic Git Commands:
  4. `git add <file>` - Add file contents to the index
  5. `git commit -m "<message>"` - Record changes to the repository
  6. `git push` - Update remote refs along with associated objects
+
+
+HomeWork:
+- Practice the above commands
+- Add git pull, git branch and git checkout to README.md file
